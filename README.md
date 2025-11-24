@@ -41,7 +41,7 @@ To exit the program, select option 0.
 Python 3.x (compatible with any modern version)
 
 # Example
-text
+
 ==== PERSONAL EXPENSE TRACKER ====
 1. Add expense
 2. Show all expenses
